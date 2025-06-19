@@ -1,1 +1,0 @@
-# gcp-realtime-ecommerce-pipeline
